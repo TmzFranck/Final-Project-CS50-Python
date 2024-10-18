@@ -19,6 +19,8 @@ The application leverages several Python libraries for its functionality:
 - tqdm for progress bars during data import/export.
 - time for managing sleep intervals.
 - datetime for date manipulation.
-Error handling and input validation are integral parts of the script, ensuring a smooth user experience. The main menu is designed to be intuitive, allowing users to navigate through options with ease. The Finance Tracker's modular design makes it easy to extend or modify catering to a wide range of personal finance management needs.
+Error handling and input validation are integral parts of the script, ensuring a smooth user experience.
+
+The main menu is designed to be intuitive, allowing users to navigate through options with ease. The Finance Tracker's modular design makes it easy to extend or modify catering to a wide range of personal finance management needs.
 
 Overall, the Finance Tracker is a powerful tool for anyone looking to keep a detailed and organized record of their financial transactions, offering a blend of simplicity, flexibility, and comprehensive functionality.
